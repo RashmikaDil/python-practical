@@ -12,3 +12,8 @@ print(_my_var)
 print(myVar)
 print(MYVAR)
 print(myvar_1)
+print(len('ab'))
+
+
+a = "Rashmika"
+print(a[2])
