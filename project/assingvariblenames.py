@@ -14,3 +14,16 @@ print(w)
 print(x)
 print(y)
 print(z)
+
+#plus
+x = "Esoft "
+y = "Metro "
+z = "Campus"
+
+print(x+y+z)
+
+#example
+x = 'tharushi '
+y = 'dulanji '
+z = 'nanayakkara '
+print (x+y+z)
